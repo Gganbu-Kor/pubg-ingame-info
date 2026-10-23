@@ -5,6 +5,7 @@ PUBG 유저 편의성 개선 기획안 — 공식 API 데이터로 만든 인게
 
 - **시연:** [계산기 · 총기 가이드 · 내 최근 경기 · 컨셉 화면](https://gganbu-kor.github.io/pubg-ingame-info/src/index.html)
 - **기획안 전문:** [docs/00_기획안.md](docs/00_기획안.md) · 결정 기록 [01](docs/01_의사결정기록.md) · AI 협업 로그 [02](docs/02_AI협업로그.md) · 검증 기록 [03](docs/03_검증기록.md) · 상황별 화면 [04](docs/04_상황별화면.md)
+- **다른 프로젝트:** [맵 선호도에 안 보이는 것: 언제 봇이 판을 채우나](https://github.com/Gganbu-Kor/pubg-map-rotation) — 공식 API로 본 시간대별 봇 비율과 매칭 품질
 
 ## 무엇을 하나
 - 무기·방어구(조끼·헬멧)·거리별로 13개 부위의 피해량, 필요 발수, TTK를 실루엣으로 표시 (43.2 기준)
