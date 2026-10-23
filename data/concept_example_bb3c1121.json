@@ -1,0 +1,196 @@
+{
+  "name": "GrozaMk14",
+  "match": {
+    "id": "bb3c1121-9da6-435d-8119-36dc7c200958",
+    "created_kst": "2026-10-18 20:30",
+    "map": "Taego",
+    "mode": "Duo TPP",
+    "match_type": "official"
+  },
+  "result": {
+    "win_place": 47,
+    "death_type": "byplayer"
+  },
+  "settings": {
+    "engagement_gap_sec": 20.0
+  },
+  "source": "PUBG 공식 API 텔레메트리 · 무기 이름: pubg/api-assets 사전",
+  "downs": [
+    {
+      "type": "기절",
+      "time_kst": "20:32:55",
+      "final_weapon_id": "Bluezonebomb_EffectActor_C",
+      "final_weapon": "Bluezone Grenade",
+      "final_part": "부위 없음",
+      "start_health": 58.35,
+      "duration_ms": 4987,
+      "attackers": 1,
+      "by_weapon": [
+        {
+          "weapon_id": "Bluezonebomb_EffectActor_C",
+          "weapon": "Bluezone Grenade",
+          "parts": {
+            "부위 없음": 6
+          },
+          "total": 6
+        }
+      ],
+      "shots": [
+        {
+          "t_ms": 0,
+          "attacker": "상대1",
+          "weapon_id": "Bluezonebomb_EffectActor_C",
+          "weapon": "Bluezone Grenade",
+          "category": "Damage_BlueZoneGrenade",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 58.35,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 27,
+          "my_vest": 0,
+          "my_helmet": 0,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 960,
+          "attacker": "상대1",
+          "weapon_id": "Bluezonebomb_EffectActor_C",
+          "weapon": "Bluezone Grenade",
+          "category": "Damage_BlueZoneGrenade",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 48.35,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 26,
+          "my_vest": 0,
+          "my_helmet": 0,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 2011,
+          "attacker": "상대1",
+          "weapon_id": "Bluezonebomb_EffectActor_C",
+          "weapon": "Bluezone Grenade",
+          "category": "Damage_BlueZoneGrenade",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 38.35,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 27,
+          "my_vest": 0,
+          "my_helmet": 0,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 2980,
+          "attacker": "상대1",
+          "weapon_id": "Bluezonebomb_EffectActor_C",
+          "weapon": "Bluezone Grenade",
+          "category": "Damage_BlueZoneGrenade",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 29.35,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 28,
+          "my_vest": 0,
+          "my_helmet": 0,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 3948,
+          "attacker": "상대1",
+          "weapon_id": "Bluezonebomb_EffectActor_C",
+          "weapon": "Bluezone Grenade",
+          "category": "Damage_BlueZoneGrenade",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 19.35,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 27,
+          "my_vest": 0,
+          "my_helmet": 0,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 4987,
+          "attacker": "상대1",
+          "weapon_id": "Bluezonebomb_EffectActor_C",
+          "weapon": "Bluezone Grenade",
+          "category": "Damage_BlueZoneGrenade",
+          "part": "부위 없음",
+          "damage": 9.35,
+          "health_before": 9.35,
+          "clipped": true,
+          "reason": "NonSpecific",
+          "distance_m": 26,
+          "my_vest": 0,
+          "my_helmet": 0,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        }
+      ],
+      "my_target": {
+        "label": "상대2",
+        "is_killer": false,
+        "hits": [
+          {
+            "t_ms": -2281,
+            "weapon": "Frag Grenade",
+            "category": "Damage_Explosion_Grenade",
+            "calc_weapon": null,
+            "part": "부위 없음",
+            "reason": "NonSpecific",
+            "damage": 100,
+            "health_before": 100,
+            "health_after": 0.0,
+            "clipped": true,
+            "knocked_before": false,
+            "distance_m": 26,
+            "target_vest": 2,
+            "target_helmet": 2,
+            "zone_keys": [],
+            "zones": [],
+            "expected": null,
+            "zone_method": "자료 없음"
+          }
+        ],
+        "total_damage": 100,
+        "vest": 2,
+        "helmet": 2,
+        "knocked_by_me": true,
+        "healed_reset": false,
+        "calc_weapon": null,
+        "distance_m": 26
+      },
+      "my_other_targets": []
+    }
+  ]
+}

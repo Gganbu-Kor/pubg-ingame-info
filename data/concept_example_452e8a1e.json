@@ -1,0 +1,241 @@
+{
+  "name": "GrozaMk14",
+  "match": {
+    "id": "452e8a1e-d441-46b8-9201-96752de8e099",
+    "created_kst": "2026-10-18 20:56",
+    "map": "Rondo",
+    "mode": "Duo TPP",
+    "match_type": "official"
+  },
+  "result": {
+    "win_place": 27,
+    "death_type": "suicide"
+  },
+  "settings": {
+    "engagement_gap_sec": 20.0
+  },
+  "source": "PUBG 공식 API 텔레메트리 · 무기 이름: pubg/api-assets 사전",
+  "downs": [
+    {
+      "type": "기절",
+      "time_kst": "21:00:43",
+      "final_weapon_id": "WeapAUG_C",
+      "final_weapon": "AUG A3",
+      "final_part": "머리",
+      "start_health": 100,
+      "duration_ms": 141,
+      "attackers": 1,
+      "by_weapon": [
+        {
+          "weapon_id": "WeapAUG_C",
+          "weapon": "AUG A3",
+          "parts": {
+            "몸통": 1,
+            "머리": 2
+          },
+          "total": 3
+        }
+      ],
+      "shots": [
+        {
+          "t_ms": 0,
+          "attacker": "상대1",
+          "weapon_id": "WeapAUG_C",
+          "weapon": "AUG A3",
+          "category": "Damage_Gun",
+          "part": "몸통",
+          "damage": 24,
+          "health_before": 100,
+          "clipped": false,
+          "reason": "TorsoShot",
+          "distance_m": 49,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": "AUG",
+          "zone_keys": [
+            "Clavicle",
+            "Upper Stomach"
+          ],
+          "zones": [
+            "쇄골",
+            "윗배"
+          ],
+          "expected": 24.0,
+          "zone_method": "정확"
+        },
+        {
+          "t_ms": 88,
+          "attacker": "상대1",
+          "weapon_id": "WeapAUG_C",
+          "weapon": "AUG A3",
+          "category": "Damage_Gun",
+          "part": "머리",
+          "damage": 56.4,
+          "health_before": 76,
+          "clipped": false,
+          "reason": "HeadShot",
+          "distance_m": 49,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": "AUG",
+          "zone_keys": [
+            "Head"
+          ],
+          "zones": [
+            "머리"
+          ],
+          "expected": 56.4,
+          "zone_method": "정확"
+        },
+        {
+          "t_ms": 141,
+          "attacker": "상대1",
+          "weapon_id": "WeapAUG_C",
+          "weapon": "AUG A3",
+          "category": "Damage_Gun",
+          "part": "머리",
+          "damage": 19.6,
+          "health_before": 19.6,
+          "clipped": true,
+          "reason": "HeadShot",
+          "distance_m": 49,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": "AUG",
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "잘림"
+        }
+      ],
+      "my_target": {
+        "label": "상대2",
+        "is_killer": false,
+        "hits": [
+          {
+            "t_ms": -3746,
+            "weapon": "M416",
+            "category": "Damage_Gun",
+            "calc_weapon": "M416",
+            "part": "몸통",
+            "reason": "TorsoShot",
+            "damage": 22.8,
+            "health_before": 100,
+            "health_after": 77.2,
+            "clipped": false,
+            "knocked_before": false,
+            "distance_m": 50,
+            "target_vest": 2,
+            "target_helmet": 2,
+            "zone_keys": [
+              "Lower Stomach"
+            ],
+            "zones": [
+              "아랫배"
+            ],
+            "expected": [
+              22.23,
+              22.8
+            ],
+            "zone_method": "범위"
+          },
+          {
+            "t_ms": -3665,
+            "weapon": "M416",
+            "category": "Damage_Gun",
+            "calc_weapon": "M416",
+            "part": "몸통",
+            "reason": "TorsoShot",
+            "damage": 24,
+            "health_before": 77.2,
+            "health_after": 53.2,
+            "clipped": false,
+            "knocked_before": false,
+            "distance_m": 50,
+            "target_vest": 2,
+            "target_helmet": 2,
+            "zone_keys": [
+              "Clavicle",
+              "Upper Stomach"
+            ],
+            "zones": [
+              "쇄골",
+              "윗배"
+            ],
+            "expected": [
+              23.4,
+              24.0
+            ],
+            "zone_method": "범위"
+          },
+          {
+            "t_ms": -3317,
+            "weapon": "M416",
+            "category": "Damage_Gun",
+            "calc_weapon": "M416",
+            "part": "몸통",
+            "reason": "TorsoShot",
+            "damage": 24,
+            "health_before": 53.2,
+            "health_after": 29.2,
+            "clipped": false,
+            "knocked_before": false,
+            "distance_m": 50,
+            "target_vest": 2,
+            "target_helmet": 2,
+            "zone_keys": [
+              "Clavicle",
+              "Upper Stomach"
+            ],
+            "zones": [
+              "쇄골",
+              "윗배"
+            ],
+            "expected": [
+              23.4,
+              24.0
+            ],
+            "zone_method": "범위"
+          },
+          {
+            "t_ms": -3229,
+            "weapon": "M416",
+            "category": "Damage_Gun",
+            "calc_weapon": "M416",
+            "part": "몸통",
+            "reason": "TorsoShot",
+            "damage": 24,
+            "health_before": 29.2,
+            "health_after": 5.2,
+            "clipped": false,
+            "knocked_before": false,
+            "distance_m": 50,
+            "target_vest": 2,
+            "target_helmet": 2,
+            "zone_keys": [
+              "Clavicle",
+              "Upper Stomach"
+            ],
+            "zones": [
+              "쇄골",
+              "윗배"
+            ],
+            "expected": [
+              23.4,
+              24.0
+            ],
+            "zone_method": "범위"
+          }
+        ],
+        "total_damage": 94.8,
+        "vest": 2,
+        "helmet": 2,
+        "knocked_by_me": false,
+        "healed_reset": false,
+        "calc_weapon": "M416",
+        "distance_m": 50
+      },
+      "my_other_targets": []
+    }
+  ]
+}

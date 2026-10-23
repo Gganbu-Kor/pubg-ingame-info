@@ -1,0 +1,10 @@
+item,level,damage_reduction,source,verified
+vest,0,0.00,기준값,Y
+helmet,0,0.00,기준값,Y
+helmet,1,0.30,"pubgstatistics.com (공식 API 실측 기반, 조회 2026-10-20) — 무기 29종 레벨별 피해량에서 역산 · 텔레메트리 113경기로 확인 (docs/03_검증기록.md)",Y
+helmet,2,0.40,"pubgstatistics.com (공식 API 실측 기반, 조회 2026-10-20) — 무기 29종 레벨별 피해량에서 역산 · 텔레메트리 113경기로 확인 (docs/03_검증기록.md)",Y
+helmet,3,0.55,"pubgstatistics.com (공식 API 실측 기반, 조회 2026-10-20) — 무기 29종 레벨별 피해량에서 역산 · 텔레메트리 113경기로 확인 (docs/03_검증기록.md)",Y
+vest,1,0.30,"pubgstatistics.com (공식 API 실측 기반, 조회 2026-10-20) — 무기 29종 레벨별 피해량에서 역산 · 텔레메트리 113경기로 확인 (docs/03_검증기록.md)",Y
+vest,2,0.40,"pubgstatistics.com (공식 API 실측 기반, 조회 2026-10-20) — 무기 29종 레벨별 피해량에서 역산 · 텔레메트리 113경기로 확인 (docs/03_검증기록.md)",Y
+vest,3,0.55,"pubgstatistics.com (공식 API 실측 기반, 조회 2026-10-20) — 무기 29종 레벨별 피해량에서 역산 · 텔레메트리 113경기로 확인 (docs/03_검증기록.md)",Y
+vest,broken,0.20,텔레메트리 실측: 부서진 조끼를 입은 채 맞은 몸통·골반 64발 모두 0.8배 (10/21) · 작성자 확인 (10/21),Y

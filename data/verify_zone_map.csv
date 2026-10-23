@@ -1,0 +1,26 @@
+damage_reason,matched_zones,count
+ArmShot,Thigh / Upper Arm,530
+ArmShot,Calf / Forearm,434
+ArmShot,Foot / Hand,186
+ArmShot,Calf / Clavicle / Forearm / Pelvis / Upper Stomach,121
+ArmShot,Calf / Forearm / Lower Stomach / Pelvis,18
+HeadShot,Head,608
+HeadShot,Neck,235
+LegShot,Calf / Forearm,5072
+LegShot,Thigh / Upper Arm,1268
+LegShot,Calf / Clavicle / Forearm / Pelvis / Upper Stomach,490
+LegShot,Foot / Hand,141
+LegShot,Calf / Forearm / Lower Stomach / Pelvis,9
+PelvisShot,Clavicle / Pelvis / Upper Stomach,922
+PelvisShot,Calf / Clavicle / Forearm / Pelvis / Upper Stomach,231
+PelvisShot,Lower Stomach / Pelvis,92
+PelvisShot,Calf / Forearm / Lower Stomach / Pelvis,43
+PelvisShot,Pelvis,8
+TorsoShot,Clavicle / Pelvis / Upper Stomach,3981
+TorsoShot,Chest,2578
+TorsoShot,Lower Stomach,937
+TorsoShot,Calf / Clavicle / Forearm / Pelvis / Upper Stomach,643
+TorsoShot,Clavicle / Upper Stomach,199
+TorsoShot,Lower Stomach / Pelvis,44
+TorsoShot,Calf / Forearm / Lower Stomach / Pelvis,19
+TorsoShot,Calf / Forearm,1

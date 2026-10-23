@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>내 최근 경기 (비공식)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- 비공식 표시: 모든 화면 최상단에 고정 -->
+  <div class="disclaimer" id="disclaimer">
+    비공식 개인 프로젝트 · KRAFTON과 무관 · 데이터: PUBG 공식 API
+  </div>
+
+  <nav class="topnav">
+    <a href="index.html">TTK 계산기</a>
+    <a href="guide.html">총기 가이드</a>
+    <a href="match.html" aria-current="page">내 최근 경기</a>
+    <a href="concept.html">컨셉 화면</a>
+  </nav>
+
+  <main>
+    <header class="page-head">
+      <h1>내 최근 경기</h1>
+      <p class="sub">나를 쓰러뜨린 총·부위·발수 — PUBG 공식 API 텔레메트리 기준 · 공식 기능이라면 게임 안 "전적 → 매치 히스토리 → 매치 리포트"에 들어갈 내용</p>
+    </header>
+
+    <section id="match-info"></section>
+    <section id="downs"></section>
+
+    <footer class="notes">
+      <h2>안내</h2>
+      <ul>
+        <li>쓰러진 순간부터 거슬러 올라가며, 맞은 공격 사이가 <span class="gap-sec">20</span>초 넘게 비면 다른 교전으로 보고 끊어서 셉니다.</li>
+        <li>마지막 발은 남은 체력만큼만 피해가 기록됩니다. 그 총의 실제 위력이 아닙니다.</li>
+        <li>추정 세부 부위·계산값: 텔레메트리에는 부위가 몸통·팔 등으로만 기록됩니다. 그 순간 내 방어구와 거리로 계산한 값이 실제 피해량과 맞는 세부 부위를 거꾸로 찾았습니다. 피해량이 같은 부위(예: 쇄골·윗배)는 구분할 수 없습니다.</li>
+        <li>거리 감쇠가 시작되는 거리부터는 측정 지점 사이 범위로만 비교합니다 (지점 사이 정확한 값은 추측하지 않음).</li>
+        <li>"내가 마지막으로 공격하던 적": 쓰러지기 전 <span class="gap-sec">20</span>초 안에 내가 마지막으로 피해를 준 적과, 그 적에게 준 피해입니다(총은 부위별, 수류탄·화염병 등 부위가 남지 않는 피해는 원인별 합계). 수류탄처럼 여러 적을 같은 순간에 맞혔다면 피해를 가장 많이 준 적을 고르고, 나머지 적은 "같은 교전에서 피해를 준 다른 적"으로 함께 보여 줍니다. 나를 쓰러뜨린 상대와 다를 수 있고, 일방적으로 맞았다면 표시하지 않습니다. 팀원이나 이미 기절한 적을 맞힌 발은 뺍니다. 내 두 발 사이에 상대 체력이 <span class="reset-hp">10</span> 이상 올랐으면(회복) 그 이후 발만 셉니다. 다른 사람의 피해는 계산하지 않습니다. 샷건은 맞힌 부위만 표시합니다.</li>
+        <li>상대 플레이어의 닉네임·계정 정보는 저장하거나 표시하지 않습니다.</li>
+        <li>다른 경기를 보려면 터미널에서 <code>.venv/bin/python scripts/fetch_my_match.py 닉네임</code> → <code>.venv/bin/python scripts/analyze_my_match.py</code> 를 실행한 뒤 새로고침하세요.</li>
+      </ul>
+    </footer>
+  </main>
+
+  <script type="module" src="match.js"></script>
+</body>
+</html>

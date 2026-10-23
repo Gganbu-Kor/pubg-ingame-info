@@ -1,0 +1,114 @@
+{
+  "name": "GrozaMk14",
+  "match": {
+    "id": "1f0b6496-d9ae-4caf-9d9d-aba61e6cecc9",
+    "created_kst": "2026-10-18 21:10",
+    "map": "Rondo",
+    "mode": "Duo TPP",
+    "match_type": "official"
+  },
+  "result": {
+    "win_place": 49,
+    "death_type": "byplayer"
+  },
+  "settings": {
+    "engagement_gap_sec": 20.0
+  },
+  "source": "PUBG 공식 API 텔레메트리 · 무기 이름: pubg/api-assets 사전",
+  "downs": [
+    {
+      "type": "기절",
+      "time_kst": "21:11:52",
+      "final_weapon_id": "WeapSCAR-L_C",
+      "final_weapon": "SCAR-L",
+      "final_part": "몸통",
+      "start_health": 100,
+      "duration_ms": 187,
+      "attackers": 1,
+      "by_weapon": [
+        {
+          "weapon_id": "WeapSCAR-L_C",
+          "weapon": "SCAR-L",
+          "parts": {
+            "몸통": 3
+          },
+          "total": 3
+        }
+      ],
+      "shots": [
+        {
+          "t_ms": 0,
+          "attacker": "상대1",
+          "weapon_id": "WeapSCAR-L_C",
+          "weapon": "SCAR-L",
+          "category": "Damage_Gun",
+          "part": "몸통",
+          "damage": 39.9,
+          "health_before": 100,
+          "clipped": false,
+          "reason": "TorsoShot",
+          "distance_m": 10,
+          "my_vest": 0,
+          "my_helmet": 1,
+          "calc_weapon": "SCAR-L",
+          "zone_keys": [
+            "Lower Stomach"
+          ],
+          "zones": [
+            "아랫배"
+          ],
+          "expected": 39.9,
+          "zone_method": "정확"
+        },
+        {
+          "t_ms": 119,
+          "attacker": "상대1",
+          "weapon_id": "WeapSCAR-L_C",
+          "weapon": "SCAR-L",
+          "category": "Damage_Gun",
+          "part": "몸통",
+          "damage": 42,
+          "health_before": 60.1,
+          "clipped": false,
+          "reason": "TorsoShot",
+          "distance_m": 10,
+          "my_vest": 0,
+          "my_helmet": 1,
+          "calc_weapon": "SCAR-L",
+          "zone_keys": [
+            "Clavicle",
+            "Upper Stomach"
+          ],
+          "zones": [
+            "쇄골",
+            "윗배"
+          ],
+          "expected": 42.0,
+          "zone_method": "정확"
+        },
+        {
+          "t_ms": 187,
+          "attacker": "상대1",
+          "weapon_id": "WeapSCAR-L_C",
+          "weapon": "SCAR-L",
+          "category": "Damage_Gun",
+          "part": "몸통",
+          "damage": 18.1,
+          "health_before": 18.1,
+          "clipped": true,
+          "reason": "TorsoShot",
+          "distance_m": 10,
+          "my_vest": 0,
+          "my_helmet": 1,
+          "calc_weapon": "SCAR-L",
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "잘림"
+        }
+      ],
+      "my_target": null,
+      "my_other_targets": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+match,모드,맵,경기 경과(분),무기,분류,부위 기록,피해량,맞기 전 체력,거리(m),0.8배 부위,0.8배 기준 계산값,가장 가까운 계산값,같은 상대에게 몇 번째,마지막 조끼 이벤트,맞은 쪽 종류,쏜 쪽 종류,추적한 조끼,조끼 입은 적 있음,조끼 부서진 적 있음,맞은 쪽 차량,쏜 쪽 차량
+45d7dd9d,duo,Tiger_Main,16.3,AUG,AR,PelvisShot,32,39.9,11,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,3,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,예
+602aeb1f,duo,Tiger_Main,24.8,ACE32,AR,TorsoShot,34.4,63.3,3,골반 / 쇄골 / 윗배,43.0,목 34.10,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+71de24e8,duo,Tiger_Main,11.5,M416,AR,TorsoShot,30.4,35.9,4,아랫배,38.0,아랫배 38.00,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+75d1ae14,duo,Tiger_Main,24.1,ACE32,AR,TorsoShot,37.84,38.1,32,가슴,47.3,아랫배 40.85,4,ArmorDestroy 0초 전,user,user,0레벨,예,예,예,아니오
+77d41eba,duo,Tiger_Main,6.6,AUG,AR,TorsoShot,32,42.4,46,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,3,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+bb3c1121,duo,Tiger_Main,29.8,M249,LMG,TorsoShot,34.44,42.3,14,쇄골 / 윗배,43.05,아랫배 40.90,4,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+f4d956b4,duo,Tiger_Main,3.6,AKM,AR,TorsoShot,38.4,100,29,-,,가슴 31.68,1,ArmorDestroy 0초 전,user,user,2레벨,예,예,아니오,아니오
+f4d956b4,duo,Tiger_Main,3.6,AKM,AR,TorsoShot,42.24,61.6,30,가슴,52.8,아랫배 45.60,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+f4d956b4,duo,Tiger_Main,22.2,P90,SMG,TorsoShot,29.4,44.3,10,골반 / 쇄골 / 윗배,36.75,윗팔 27.30,3,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+f4d956b4,duo,Tiger_Main,24.2,P90,SMG,PelvisShot,29.4,83.5,26,골반 / 쇄골 / 윗배,36.75,윗팔 27.30,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+011ffd1e,squad,Tiger_Main,3.0,M249,LMG,TorsoShot,37.88,56.6,43,가슴,47.36,아랫배 40.90,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+011ffd1e,squad,Tiger_Main,6.3,M416,AR,TorsoShot,32,51,8,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,4,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+0892b13f,duo,Tiger_Main,27.0,베릴 M762,AR,TorsoShot,35.2,55.2,15,골반 / 쇄골 / 윗배,44.0,아랫배 41.80,2,ArmorDestroy 0초 전,user_ai,user_ai,0레벨,예,예,아니오,아니오
+08dac0cb,squad,Tiger_Main,26.6,베릴 M762,AR,PelvisShot,35.2,94.5,19,골반 / 쇄골 / 윗배,44.0,아랫배 41.80,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+08dac0cb,squad,Tiger_Main,26.6,베릴 M762,AR,TorsoShot,35.2,59.3,19,골반 / 쇄골 / 윗배,44.0,아랫배 41.80,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+16226334,squad,Baltic_Main,20.4,AUG,AR,PelvisShot,32,97.5,16,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+16ddb642,squad,DihorOtok_Main,23.0,베릴 M762,AR,TorsoShot,38.72,75,20,가슴,48.4,아랫배 41.80,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+16ddb642,squad,DihorOtok_Main,26.3,M416,AR,TorsoShot,35.2,100,48,가슴,44.0,아랫배 38.00,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+1bb85018,duo,Baltic_Main,20.5,Dragunov,DMR,TorsoShot,44.52,100,45,골반 / 쇄골 / 윗배,55.65,아랫배 52.87,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+1bb85018,duo,Baltic_Main,20.5,Dragunov,DMR,TorsoShot,44.52,55.5,45,골반 / 쇄골 / 윗배,55.65,아랫배 52.87,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+1f4ddb2d,duo,Baltic_Main,2.9,VSS,DMR,TorsoShot,41.58,86.0,30,-,,가슴 31.19,1,ArmorDestroy 0초 전,user,user,2레벨,예,예,아니오,아니오
+1f4ddb2d,duo,Baltic_Main,2.9,VSS,DMR,TorsoShot,41.58,44.5,30,가슴,51.98,아랫배 44.89,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+2a331aad,duo,Baltic_Main,24.5,AUG,AR,TorsoShot,32,58.2,29,골반 / 쇄골 / 윗배,40.0,목 31.72,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+2b667e99,squad,Tiger_Main,2.4,AKM,AR,PelvisShot,38.4,62.9,4,-,,가슴 36.96,1,ArmorDestroy 0초 전,user,user,1레벨,예,예,아니오,아니오
+39bc8333,duo,Baltic_Main,8.4,AUG,AR,TorsoShot,32,43.6,8,-,,가슴 26.40,2,ArmorDestroy 0초 전,user,user,2레벨,예,예,아니오,아니오
+46cd8102,squad,Baltic_Main,23.5,베릴 M762,AR,TorsoShot,33.44,75,34,아랫배,41.8,아랫배 41.80,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+46cd8102,squad,Baltic_Main,25.9,AUG,AR,TorsoShot,35.2,56.5,8,가슴,44.0,아랫배 38.00,8,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+55a2e39b,squad,Baltic_Main,8.6,AUG,AR,TorsoShot,35.2,53.4,6,가슴,44.0,아랫배 38.00,2,ArmorDestroy 0초 전,user_ai,user,0레벨,예,예,아니오,아니오
+5bb3d1d3,squad,Baltic_Main,18.3,M416,AR,TorsoShot,32,75,24,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,5,ArmorDestroy 0초 전,user_ai,user_ai,0레벨,예,예,아니오,아니오
+5bb3d1d3,squad,Baltic_Main,19.8,AUG,AR,PelvisShot,32,78,18,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,1,ArmorDestroy 0초 전,user_ai,user,0레벨,예,예,아니오,아니오
+5bb3d1d3,squad,Baltic_Main,19.8,AUG,AR,TorsoShot,35.2,46,18,가슴,44.0,아랫배 38.00,2,ArmorDestroy 0초 전,user_ai,user,0레벨,예,예,아니오,아니오
+5bb3d1d3,squad,Baltic_Main,20.0,AUG,AR,TorsoShot,32,64.7,20,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,1,ArmorDestroy 0초 전,user_ai,user_ai,0레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,7.6,AUG,AR,TorsoShot,35.2,84.5,42,-,,목 42.30,1,ArmorDestroy 0초 전,user,user,2레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,7.6,AUG,AR,TorsoShot,30.4,49.3,42,아랫배,38.0,아랫배 38.00,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,16.4,AUG,AR,TorsoShot,32,79.9,29,-,,가슴 26.40,1,ArmorDestroy 0초 전,user,user,2레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,16.4,AUG,AR,TorsoShot,30.4,47.9,29,아랫배,38.0,아랫배 38.00,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,18.2,베릴 M762,AR,TorsoShot,38.72,100,37,가슴,48.4,아랫배 41.80,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,18.2,P90,SMG,PelvisShot,29.4,68.7,29,골반 / 쇄골 / 윗배,36.75,윗팔 27.30,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,18.2,P90,SMG,TorsoShot,29.4,39.3,29,골반 / 쇄골 / 윗배,36.75,윗팔 27.30,3,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,19.1,AUG,AR,TorsoShot,30.4,80,16,아랫배,38.0,아랫배 38.00,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,19.1,AUG,AR,TorsoShot,35.2,49.6,15,가슴,44.0,아랫배 38.00,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,19.6,베릴 M762,AR,TorsoShot,35.2,92.5,37,골반 / 쇄골 / 윗배,44.0,아랫배 41.80,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6275cdcc,squad,Baltic_Main,23.4,Kar98k,SR,PelvisShot,82.16,85,98,골반 / 쇄골 / 윗배,102.7,머리 88.87,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6e37ee2c,squad,Neon_Main,3.7,ACE32,AR,TorsoShot,34.4,70,9,골반 / 쇄골 / 윗배,43.0,아랫배 40.85,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6e37ee2c,squad,Neon_Main,11.4,AUG,AR,TorsoShot,35.2,57,11,가슴,44.0,아랫배 38.00,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+6e37ee2c,squad,Neon_Main,21.3,ACE32,AR,TorsoShot,37.84,80.8,31,가슴,47.3,아랫배 40.85,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+78f6a3ac,squad,Tiger_Main,2.8,AUG,AR,TorsoShot,32,53.4,5,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+78f6a3ac,squad,Tiger_Main,13.5,AUG,AR,PelvisShot,32,35.4,13,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,3,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+8cb603ee,squad,Tiger_Main,5.1,AUG,AR,TorsoShot,35.2,64,39,가슴,44.0,아랫배 38.00,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+8f57aa91,squad,Baltic_Main,22.9,SCAR-L,AR,TorsoShot,36.96,75,41,가슴,46.2,아랫배 39.90,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+8f57aa91,squad,Baltic_Main,23.0,SCAR-L,AR,TorsoShot,31.92,38.0,38,아랫배,39.9,아랫배 39.90,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+9a777ca6,squad,Baltic_Main,9.7,베릴 M762,AR,TorsoShot,35.2,37.5,26,골반 / 쇄골 / 윗배,44.0,아랫배 41.80,1,ArmorDestroy 0초 전,user_ai,user_ai,0레벨,예,예,아니오,아니오
+9b360711,squad,Savage_Main,20.1,ACE32,AR,TorsoShot,34.4,81.5,16,골반 / 쇄골 / 윗배,43.0,목 34.10,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+9b360711,squad,Savage_Main,20.9,베릴 M762,AR,PelvisShot,35.2,70.5,33,골반 / 쇄골 / 윗배,44.0,목 34.90,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+9c4948d7,duo,Baltic_Main,16.3,M416,AR,TorsoShot,32,84,5,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,3,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+9c4948d7,duo,Baltic_Main,16.3,M416,AR,TorsoShot,32,52,4,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,4,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+9c4948d7,duo,Baltic_Main,28.2,M416,AR,PelvisShot,32,57,43,골반 / 쇄골 / 윗배,40.0,목 31.72,3,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+a6f4a8c1,squad,Neon_Main,2.8,Dragunov,DMR,HeadShot,88.93,100,47,-,,머리 89.04,1,ItemEquip 17초 전,user,user,2레벨,예,아니오,아니오,아니오
+a6f4a8c1,squad,Neon_Main,21.0,M249,LMG,TorsoShot,37.88,71.6,49,가슴,47.36,아랫배 40.90,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+a979fd20,squad-fpp,Tiger_Main,22.1,M416,AR,TorsoShot,35.2,43.3,24,가슴,44.0,아랫배 38.00,4,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+aa26579d,squad,Savage_Main,9.7,베릴 M762,AR,TorsoShot,35.2,45.2,20,골반 / 쇄골 / 윗배,44.0,아랫배 41.80,3,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+aa6be09e,squad,Baltic_Main,11.8,AUG,AR,TorsoShot,30.4,57.2,24,아랫배,38.0,아랫배 38.00,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+b3d02c6b,squad,Tiger_Main,26.1,M249,LMG,TorsoShot,37.88,88,34,가슴,47.36,아랫배 40.90,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+b3d02c6b,squad,Tiger_Main,26.1,M249,LMG,TorsoShot,37.88,50.1,34,가슴,47.36,아랫배 40.90,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+d3f9c73c,squad,Tiger_Main,27.7,베릴 M762,AR,TorsoShot,38.72,100,39,가슴,48.4,아랫배 41.80,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+d3f9c73c,squad,Tiger_Main,27.7,베릴 M762,AR,TorsoShot,38.72,61.3,39,가슴,48.4,아랫배 41.80,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+db267451,squad,Savage_Main,4.0,AUG,AR,PelvisShot,32,81,43,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+db267451,squad,Savage_Main,4.0,AUG,AR,TorsoShot,30.4,49,45,아랫배,38.0,아랫배 38.00,2,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+db267451,squad,Savage_Main,6.5,베릴 M762,AR,TorsoShot,35.2,62,10,골반 / 쇄골 / 윗배,44.0,아랫배 41.80,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+ee19ae68,squad,Baltic_Main,6.2,AKM,AR,TorsoShot,38.4,79,26,골반 / 쇄골 / 윗배,48.0,아랫배 45.60,1,ArmorDestroy 0초 전,user,user,0레벨,예,예,아니오,아니오
+feaff1fa,duo,Tiger_Main,25.9,M416,AR,TorsoShot,32,58,5,골반 / 쇄골 / 윗배,40.0,아랫배 38.00,3,ArmorDestroy 0초 전,user_ai,user_ai,0레벨,예,예,아니오,아니오

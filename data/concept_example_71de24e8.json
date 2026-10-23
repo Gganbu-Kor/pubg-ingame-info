@@ -1,0 +1,373 @@
+{
+  "name": "GrozaMk14",
+  "match": {
+    "id": "71de24e8-abaa-48e5-b5b3-e4a011ec9bff",
+    "created_kst": "2026-10-13 22:22",
+    "map": "Taego",
+    "mode": "Duo TPP",
+    "match_type": "official"
+  },
+  "result": {
+    "win_place": 21,
+    "death_type": "byplayer"
+  },
+  "settings": {
+    "engagement_gap_sec": 20.0
+  },
+  "source": "PUBG 공식 API 텔레메트리 · 무기 이름: pubg/api-assets 사전",
+  "downs": [
+    {
+      "type": "사망",
+      "time_kst": "22:28:14",
+      "final_weapon_id": "BP_MolotovFireDebuff_C",
+      "final_weapon": "Molotov Fire Damage",
+      "final_part": "부위 없음",
+      "start_health": 87,
+      "duration_ms": 20987,
+      "attackers": 1,
+      "by_weapon": [
+        {
+          "weapon_id": "BP_MolotovFireDebuff_C",
+          "weapon": "Molotov Fire Damage",
+          "parts": {
+            "부위 없음": 6
+          },
+          "total": 6
+        },
+        {
+          "weapon_id": "BP_FireEffectController_C",
+          "weapon": "Molotov Fire",
+          "parts": {
+            "부위 없음": 4
+          },
+          "total": 4
+        },
+        {
+          "weapon_id": "ProjMolotov_C",
+          "weapon": "Molotov Cocktail",
+          "parts": {
+            "부위 없음": 1
+          },
+          "total": 1
+        }
+      ],
+      "shots": [
+        {
+          "t_ms": 0,
+          "attacker": "상대1",
+          "weapon_id": "BP_FireEffectController_C",
+          "weapon": "Molotov Fire",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 4,
+          "health_before": 87,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 24,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 400,
+          "attacker": "상대1",
+          "weapon_id": "BP_FireEffectController_C",
+          "weapon": "Molotov Fire",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 4,
+          "health_before": 83,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 24,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 920,
+          "attacker": "상대1",
+          "weapon_id": "BP_MolotovFireDebuff_C",
+          "weapon": "Molotov Fire Damage",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 79,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 25,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 1934,
+          "attacker": "상대1",
+          "weapon_id": "BP_MolotovFireDebuff_C",
+          "weapon": "Molotov Fire Damage",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 70,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 29,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 2926,
+          "attacker": "상대1",
+          "weapon_id": "BP_MolotovFireDebuff_C",
+          "weapon": "Molotov Fire Damage",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 60,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 30,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 3903,
+          "attacker": "상대1",
+          "weapon_id": "BP_MolotovFireDebuff_C",
+          "weapon": "Molotov Fire Damage",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 50,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 27,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 18959,
+          "attacker": "상대1",
+          "weapon_id": "ProjMolotov_C",
+          "weapon": "Molotov Cocktail",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 20,
+          "health_before": 43.5,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 10,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 19368,
+          "attacker": "상대1",
+          "weapon_id": "BP_FireEffectController_C",
+          "weapon": "Molotov Fire",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 4,
+          "health_before": 23.5,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 10,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 19769,
+          "attacker": "상대1",
+          "weapon_id": "BP_FireEffectController_C",
+          "weapon": "Molotov Fire",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 4,
+          "health_before": 19.5,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 10,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 19974,
+          "attacker": "상대1",
+          "weapon_id": "BP_MolotovFireDebuff_C",
+          "weapon": "Molotov Fire Damage",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 10,
+          "health_before": 15.5,
+          "clipped": false,
+          "reason": "NonSpecific",
+          "distance_m": 11,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        },
+        {
+          "t_ms": 20987,
+          "attacker": "상대1",
+          "weapon_id": "BP_MolotovFireDebuff_C",
+          "weapon": "Molotov Fire Damage",
+          "category": "Damage_Molotov",
+          "part": "부위 없음",
+          "damage": 5.5,
+          "health_before": 5.5,
+          "clipped": true,
+          "reason": "NonSpecific",
+          "distance_m": 13,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": null,
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "자료 없음"
+        }
+      ],
+      "my_target": {
+        "label": "상대1",
+        "is_killer": true,
+        "hits": [
+          {
+            "t_ms": 19091,
+            "weapon": "S1897",
+            "category": "Damage_Gun",
+            "calc_weapon": "S1897",
+            "part": "머리",
+            "reason": "HeadShot",
+            "damage": 23.38,
+            "health_before": 100,
+            "health_after": 76.62,
+            "clipped": false,
+            "knocked_before": false,
+            "distance_m": 10,
+            "target_vest": 2,
+            "target_helmet": 2,
+            "zone_keys": [
+              "Head"
+            ],
+            "zones": [
+              "머리"
+            ],
+            "expected": [
+              9.0,
+              23.4
+            ],
+            "zone_method": "범위"
+          },
+          {
+            "t_ms": 19091,
+            "weapon": "S1897",
+            "category": "Damage_Gun",
+            "calc_weapon": "S1897",
+            "part": "머리",
+            "reason": "HeadShot",
+            "damage": 23.39,
+            "health_before": 76.62,
+            "health_after": 53.24,
+            "clipped": false,
+            "knocked_before": false,
+            "distance_m": 10,
+            "target_vest": 2,
+            "target_helmet": 2,
+            "zone_keys": [
+              "Head"
+            ],
+            "zones": [
+              "머리"
+            ],
+            "expected": [
+              9.0,
+              23.4
+            ],
+            "zone_method": "범위"
+          },
+          {
+            "t_ms": 19092,
+            "weapon": "S1897",
+            "category": "Damage_Gun",
+            "calc_weapon": "S1897",
+            "part": "머리",
+            "reason": "HeadShot",
+            "damage": 23.37,
+            "health_before": 53.24,
+            "health_after": 29.87,
+            "clipped": false,
+            "knocked_before": false,
+            "distance_m": 10,
+            "target_vest": 2,
+            "target_helmet": 2,
+            "zone_keys": [
+              "Head"
+            ],
+            "zones": [
+              "머리"
+            ],
+            "expected": [
+              9.0,
+              23.4
+            ],
+            "zone_method": "범위"
+          }
+        ],
+        "total_damage": 70.14,
+        "vest": 2,
+        "helmet": 2,
+        "knocked_by_me": false,
+        "healed_reset": false,
+        "calc_weapon": "S1897",
+        "distance_m": 10
+      },
+      "my_other_targets": []
+    }
+  ]
+}

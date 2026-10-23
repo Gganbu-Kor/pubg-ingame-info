@@ -1,0 +1,202 @@
+{
+  "name": "GrozaMk14",
+  "match": {
+    "id": "ebb46fd2-5c32-4b1c-a2a9-2f9c291e9af6",
+    "created_kst": "2026-10-13 22:45",
+    "map": "Taego",
+    "mode": "Duo TPP",
+    "match_type": "official"
+  },
+  "result": {
+    "win_place": 11,
+    "death_type": "byplayer"
+  },
+  "settings": {
+    "engagement_gap_sec": 20.0
+  },
+  "source": "PUBG 공식 API 텔레메트리 · 무기 이름: pubg/api-assets 사전",
+  "downs": [
+    {
+      "type": "사망",
+      "time_kst": "23:03:52",
+      "final_weapon_id": "WeapMini14_C",
+      "final_weapon": "Mini 14",
+      "final_part": "몸통",
+      "start_health": 98.0,
+      "duration_ms": 14573,
+      "attackers": 3,
+      "by_weapon": [
+        {
+          "weapon_id": "WeapM249_C",
+          "weapon": "M249",
+          "parts": {
+            "팔": 1
+          },
+          "total": 1
+        },
+        {
+          "weapon_id": "WeapM24_C",
+          "weapon": "M24",
+          "parts": {
+            "몸통": 1
+          },
+          "total": 1
+        },
+        {
+          "weapon_id": "WeapMini14_C",
+          "weapon": "Mini 14",
+          "parts": {
+            "몸통": 1
+          },
+          "total": 1
+        }
+      ],
+      "shots": [
+        {
+          "t_ms": 0,
+          "attacker": "상대1",
+          "weapon_id": "WeapM249_C",
+          "weapon": "M249",
+          "category": "Damage_Gun",
+          "part": "팔",
+          "damage": 22.14,
+          "health_before": 98.0,
+          "clipped": false,
+          "reason": "ArmShot",
+          "distance_m": 54,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": "M249",
+          "zone_keys": [
+            "Upper Arm"
+          ],
+          "zones": [
+            "윗팔"
+          ],
+          "expected": [
+            21.82,
+            22.14
+          ],
+          "zone_method": "범위"
+        },
+        {
+          "t_ms": 14373,
+          "attacker": "상대2",
+          "weapon_id": "WeapM24_C",
+          "weapon": "M24",
+          "category": "Damage_Gun",
+          "part": "몸통",
+          "damage": 58.12,
+          "health_before": 75.86,
+          "clipped": false,
+          "reason": "TorsoShot",
+          "distance_m": 184,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": "M24",
+          "zone_keys": [
+            "Clavicle",
+            "Upper Stomach"
+          ],
+          "zones": [
+            "쇄골",
+            "윗배"
+          ],
+          "expected": [
+            58.03,
+            58.5
+          ],
+          "zone_method": "범위"
+        },
+        {
+          "t_ms": 14573,
+          "attacker": "상대3",
+          "weapon_id": "WeapMini14_C",
+          "weapon": "Mini 14",
+          "category": "Damage_Gun",
+          "part": "몸통",
+          "damage": 17.74,
+          "health_before": 17.74,
+          "clipped": true,
+          "reason": "TorsoShot",
+          "distance_m": 202,
+          "my_vest": 2,
+          "my_helmet": 2,
+          "calc_weapon": "Mini 14",
+          "zone_keys": [],
+          "zones": [],
+          "expected": null,
+          "zone_method": "잘림"
+        }
+      ],
+      "my_target": {
+        "label": "상대1",
+        "is_killer": false,
+        "hits": [
+          {
+            "t_ms": 2415,
+            "weapon": "AUG A3",
+            "category": "Damage_Gun",
+            "calc_weapon": "AUG",
+            "part": "골반",
+            "reason": "PelvisShot",
+            "damage": 17.75,
+            "health_before": 72.49,
+            "health_after": 54.74,
+            "clipped": false,
+            "knocked_before": false,
+            "distance_m": 87,
+            "target_vest": 3,
+            "target_helmet": 3,
+            "zone_keys": [
+              "Pelvis"
+            ],
+            "zones": [
+              "골반"
+            ],
+            "expected": [
+              17.59,
+              18.0
+            ],
+            "zone_method": "범위"
+          },
+          {
+            "t_ms": 2982,
+            "weapon": "AUG A3",
+            "category": "Damage_Gun",
+            "calc_weapon": "AUG",
+            "part": "다리",
+            "reason": "LegShot",
+            "damage": 17.66,
+            "health_before": 53.74,
+            "health_after": 36.08,
+            "clipped": false,
+            "knocked_before": false,
+            "distance_m": 94,
+            "target_vest": 3,
+            "target_helmet": 3,
+            "zone_keys": [
+              "Calf"
+            ],
+            "zones": [
+              "종아리"
+            ],
+            "expected": [
+              17.6,
+              18.0
+            ],
+            "zone_method": "범위"
+          }
+        ],
+        "total_damage": 35.41,
+        "vest": 3,
+        "helmet": 3,
+        "knocked_by_me": false,
+        "healed_reset": true,
+        "calc_weapon": "AUG",
+        "distance_m": 94
+      },
+      "my_other_targets": []
+    }
+  ]
+}

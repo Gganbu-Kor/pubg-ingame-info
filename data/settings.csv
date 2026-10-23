@@ -1,0 +1,6 @@
+key,value,description
+engagement_gap_sec,20,맞은 공격 사이 공백이 이 값(초)보다 길면 다른 교전으로 보고 끊는다 (작성자 결정 10/19)
+"verify_match_types",official,"검증과 내 경기 분석(analyze_my_match.py)에 쓰는 경기 유형(matchType). 이벤트 경기(event, 좀비 모드 zulu-fpp 등)는 무기·피해 규칙이 달라 제외 (10/20 검증, 10/23 작성자 결정으로 내 경기 분석에도 적용)"
+target_reset_heal_hp,10,"내가 공격하던 적에게 준 연속한 두 피해 사이에 상대 체력이 이 값 이상 오르면(회복) 그 뒤부터 다시 센다. 부스트로 조금씩 차는 것은 무시 (작성자 결정 10/21, 10/23 수류탄 등 포함)"
+card_damage_categories,Damage_Gun;Damage_Gun_Penetrate_BRDM;Damage_Melee;Damage_MeleeThrow;Damage_Punch;Damage_Kick,"부위 실루엣·발수로 그리는 피해 종류(세미콜론으로 구분). 작성자 경기 13개 텔레메트리에서 이 종류만 부위(damageReason)가 기록됨(10/23 측정). 그 밖의 피해(수류탄·화염병·블루존 수류탄 등)는 부위 없이 원인별 피해 합계로만 표시하고, 이름은 damage_causes.csv (작성자 결정 10/23)"
+same_moment_sec,1,"수류탄처럼 한 번에 여러 적을 맞혔을 때, 마지막 공격과 이 시간(초) 안에 맞은 적들을 '같은 순간'으로 보고 그 교전에서 피해를 가장 많이 준 적을 대표로 고른다. 그래도 같으면 나를 쓰러뜨린 적 (작성자 승인 10/23)"
